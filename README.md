@@ -27,7 +27,7 @@
 
 | Menu Screen | AI Selection | Gameplay |
 |-------------|--------------|----------|
-| <img src="assets/MenuScreen.jpg" width="200"> | <img src="assets/SelectAlgorithm.jpg" width="200"> | <img src="assets/GameBoard.jpgg" width="200"> |
+| <img src="assets/MenuScreen.jpg" width="200"> | <img src="assets/SelectAlgorithm.jpg" width="200"> | <img src="assets/GameBoard.jpg" width="200"> |
 
 ---
 

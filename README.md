@@ -1,4 +1,4 @@
-🎮 CONNECT 4 AI GAME
+##🎮 CONNECT 4 AI GAME
 A modern Python implementation of the classic Connect 4 game, featuring intelligent AI opponents and a dynamic GUI using Pygame. Developed as part of an Artificial Intelligence course at Benha University under the supervision of Dr. Mohamed Rehan.
 
 🚀 FEATURES

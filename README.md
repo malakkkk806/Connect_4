@@ -1,48 +1,41 @@
-##🎮 CONNECT 4 AI GAME
-A modern Python implementation of the classic Connect 4 game, featuring intelligent AI opponents and a dynamic GUI using Pygame. Developed as part of an Artificial Intelligence course at Benha University under the supervision of Dr. Mohamed Rehan.
+# 🎮 Connect 4 AI Game  
 
-🚀 FEATURES
-🧠 SMART AI OPPONENTS
-Minimax – Optimal gameplay with exhaustive search (slow but unbeatable).
+*A modern Python implementation of the classic Connect 4 game with AI opponents and Pygame GUI.*
 
-Alpha-Beta Pruning – Faster decision-making with smart pruning.
+---
 
-Iterative Deepening – Balances speed and depth for real-time play.
+## 🚀 Features
 
-🖥️ GAME MODES
-Human vs AI – Challenge different AI difficulty levels.
+### 🧠 AI Algorithms
+- **Minimax** – Optimal but slower exhaustive search
+- **Alpha-Beta Pruning** – Faster Minimax with smart pruning  
+- **Iterative Deepening** – Balances speed and depth
 
-AI vs AI – Watch bots battle it out!
+### 🖥️ Game Modes
+- Human vs AI  
+- AI vs AI (watch bots battle)  
+- Interactive GUI with animations
 
-Interactive GUI – Smooth animations, stats, and algorithm insights.
+### 🎨 Technologies
+- Python 3  
+- Pygame (GUI)  
+- OOP + Enum (clean code)
 
-🎨 TECH STACK
-Python 3
+---
 
-Pygame (GUI & animations)
+## 📸 Screenshots
 
-OOP & Enum (Clean architecture)
+| Menu Screen | AI Selection | Gameplay |
+|-------------|--------------|----------|
+| <img src="assets/Menu.png" width="200"> | <img src="assets/AI.png" width="200"> | <img src="assets/Board.png" width="200"> |
 
-📸 SCREENSHOTS
-<div align="center"> <img src="assets/Menu.png" alt="Menu" width="250"/> <img src="assets/AI.png" alt="AI Selection" width="250"/> <img src="assets/Board.png" alt="Gameplay" width="250"/> </div>
-⚙️ INSTALLATION
-Install Python 3 (if not installed).
+---
 
-Install Pygame:
+## ⚙️ Installation
 
-bash
+```bash
+# 1. Install pygame
 pip install pygame
-Run the game:
 
-bash
+# 2. Run the game
 python Gui.py
-👩‍💻 DEVELOPMENT TEAM
-Malak Mounir Abdellatif
-
-Nourhan Farag Mohamed
-
-Farida Waheed Abdelbary
-
-Nour Hesham Elsayed
-
-Razan Ahmed Fawzi
